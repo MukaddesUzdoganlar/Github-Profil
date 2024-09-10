@@ -4,7 +4,7 @@ My name is Mukaddes Uzdoganlar. I'm 31 years old and living in Cologne. I'm a ta
 
 Here is the beautiful City Cologne:
 
-[Cologne] ![roman-burki-zeM4eTle8GY-unsplash](https://github.com/MukaddesUzdoganlar/ReadMe.md/assets/141938486/bad15c2a-bf65-43b6-b4b0-0912c1735783)
+![roman-burki-zeM4eTle8GY-unsplash](https://github.com/MukaddesUzdoganlar/ReadMe.md/assets/141938486/bad15c2a-bf65-43b6-b4b0-0912c1735783)
 
 
 My Hobbies are:
